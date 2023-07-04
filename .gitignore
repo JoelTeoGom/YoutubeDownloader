@@ -1,2 +1,3 @@
-/home/joel/Desktop/pythonScripts/build
-/home/joel/Desktop/pythonScripts/dist
+# Ignore specific paths
+**/pythonScripts/build/
+**/pythonScripts/dist/
