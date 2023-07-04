@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=youtube_downloader
-Comment=Descargar videos de YouTube
-Exec=python3 /home/joel/Desktop/pythonScripts/youtube_downloader.py
-Icon=/home/joel/Desktop/pythonScripts/icon/icon.png
+Name=YouTube Downloader
+Comment=Download videos from YouTube
+Exec=python3 /path/to/youtube_downloader.py
+Icon=/path/to/icon.png
 Terminal=false
 Categories=AudioVideo;Network;
