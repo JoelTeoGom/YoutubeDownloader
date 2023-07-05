@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['youtube_downloader.py'],
+    ['youtube-downloader'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -28,7 +28,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='youtube_downloader',
+    name='youtube-downloader',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
